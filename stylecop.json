@@ -1,0 +1,10 @@
+{
+    "settings": {
+      "documentationRules": {
+        "companyName": "YourCompany",
+        "documentInterfaces": true,
+        "documentPrivateElements": false
+      }
+    }
+  }
+  
